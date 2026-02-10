@@ -1,3 +1,5 @@
-Hello Git
-Welcome to Git
-shubham gudulkar changes made on 10 feb 2026
+Hello git
+Welcome
+Hello from feature-1 and master
+Changes made on 9 Feb 11.32
+Shubham Gudulkar changes made on 10 Feb 2026
